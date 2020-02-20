@@ -3,7 +3,7 @@ install_apache:
 {% if grains['os_family'] == 'Debian' %}
     - name: apache2
 {% elif grains['os_family'] == 'RedHat' %}
-    -name: httpd
+    - name: httpd
 {% endif %}
 
 make sure package is running:
