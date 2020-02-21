@@ -1,5 +1,5 @@
 my_ssh_key: |
-  ----BEGIN RSA PRIVATE KEY-----
+    ----BEGIN RSA PRIVATE KEY-----
 MIIEpAIBAAKCAQEA5ZloVTkMEyLxoWmAqmZzDv56bTOfCdWwg+d2O6dx/e7ohtca
 2mYeYQmlBM4cLvdRS5sVzSnSdSkEs/mAfC/Ju1Zsfh4VrH3PE3HBh0cSwI2RStwz
 m3GPpbCLWnZFQsP8XlwzWUyRUHWDM/VFYxosIfBmiEPFEnS3HUxZfp1M1yonAbRJ
@@ -25,5 +25,5 @@ qWw7vKTPuBQqckDO82seArwSf5/FbTh/GDbzfokOazySgtK0rVbNd6I/APMRtbk+
 vNHTeQ0CgYAM7R9ULFqpZUHLyWMsRXqKwaHGqb3c2dgbAqlQ0g6o4FLWpLSOkQbI
 S+m12ysBM2T/f0KCDj6yoTNsMp7W9Ktt1PXMd60JNJwoaQ+krTzNGfYm31YTZ99B
 zr4n9nknBex6r0/gk8RNydwjgIiisDUY5HiO2onGmuhnUSkINhanzg==
------END RSA PRIVATE KEY-----
+    -----END RSA PRIVATE KEY-----
 my_ssh_key_name: mykey.pem
