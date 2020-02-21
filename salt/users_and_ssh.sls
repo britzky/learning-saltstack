@@ -4,7 +4,7 @@ add_{{ user }}:
     - name: {{ user }}
 {% endfor %}
 
-{$ if 'my_ssh_key' in pillar %}
+{# if 'my_ssh_key' in pillar %}
 manage_my_ssh_key:
   file.managed:
     - name: /root/.ssh/{{ pillar['my_ssh_key_name'] }}
