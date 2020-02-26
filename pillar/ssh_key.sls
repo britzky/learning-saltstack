@@ -1,3 +1,5 @@
+#!jinja|yaml|gpg
+
 my_ssh_key: |
   -----BEGIN PGP MESSAGE-----
   Version: GnuPG v1
